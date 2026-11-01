@@ -305,7 +305,7 @@ npm run test:supabase  # Verify Supabase connection & DB setup
 ### Admin Flow
 
 1. **Log in** at `/customer/login` using admin credentials.
-2. Access the **Admin Console** at `/admin`.
+.
 3. **Manage users** — view all registered users, change roles, remove profiles.
 4. **Verify workers** — approve or reject pending worker applications.
 5. **Monitor bookings** platform-wide.
@@ -313,13 +313,6 @@ npm run test:supabase  # Verify Supabase connection & DB setup
 
 ---
 
-### Admin Credentials (Development)
-
-| Field | Value |
-|-------|-------|
-| Email | `admin@findmyworker.in` |
-| Password | `admin123` |
-| Admin Panel | `/admin` |
 
 > After first login, run the following in Supabase SQL Editor to persist admin status in the database:
 > ```sql
@@ -429,7 +422,7 @@ Contributions are welcome! Please follow these steps:
 
 **Rampant Krishna**
 
-- 🔗 GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+- 🔗 GitHub: [@YOUR_GITHUB_USERNAME]([https://github.com/rampantkrishna])
 - 📧 Email: rampantkrishna@gmail.com
 
 ---
